@@ -1,0 +1,43 @@
+C1       56pF
+C2       56pF
+C3       10µF/16V
+C4       100nf
+C5       100nf
+C6       100nf
+C7       100nf
+C8       100nf
+C9       100nf
+C10      100nf
+C11      100nf
+D1       1N4148
+D2       1N4148
+IC1      GAL 22V10
+IC2      74LS123N
+IC3      74LS00N
+IC4      74LS74N
+IC5      74LS157N
+IC6      74LS367N
+IC7      74LS173N
+IC8      EPROM 27256/27512
+IC9      6264 - SRAM 8k x 8
+IC10     CPU 6502 (preferably 6502C or any other 2MHz capable version)
+JP1      Pinhead 2x5
+JP2      Pinhead 2x7
+JP3      Pinhead 2x2
+JP4      Pinhead 1x3
+JP5      Pinhead 1x2
+R1       1K5 (0.1%)
+R2       9K1 (0.1%)
+R3       1K5 (0.1%)
+R4       9K1 (0.1%)
+R5       1K8
+R6       15k
+R7       15k
+R8       150
+R9       150
+R10      4k7
+R11      1K8
+RN1      4k7 * 5 (+ common Pin)
+T1       BC557C
+T2       BC547
+X1       Precision Pinheads 1x20 (2x)
