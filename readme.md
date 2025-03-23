@@ -12,22 +12,14 @@ Additionally to the files found here you'll need a 1541/1571 parallelcable with 
 
 64'er Speedtest values:
 
-Operation    Time    Factor (compared to stock CBM)
-
-Format:     18.1s     4.12
-
-PRG Save:    8.7s    15.75
-
-PRG Load:    3.8s    33.42
-
-SEQ Save:   15.1s     5.7
-
-SEQ Load:   14.7s     5.17
-
-REL new:    25.9s     4.57
-
-Validate:    9.6s     6.88
-
-Scratch:    18.3s     3.77
-
-Transfer:   16.8s     4.29
+| Operation  | Time | Factor |
+| ------------- | ------------- | ------------- |
+| Format: | 18.1s | 4.12 |
+| PRG Save: | 8.7s | 15.75 |
+| PRG Load: | 3.8s | 33.42 |
+| SEQ Save: | 15.1s | 5.7 |
+| SEQ Load: | 14.7s | 5.17 |
+| REL new: | 25.9s | 4.57 |
+| Validate: | 9.6s | 6.88 |
+| Scratch: | 18.3s | 3.77 |
+| Transfer: | 16.8s | 4.29 |
