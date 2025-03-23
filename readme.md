@@ -4,3 +4,7 @@ I did various layouts for the project, which later evolved into the amazing MeGA
 Currently just a preview, as I need to talk to others about the license.
 
 Full run of the 64er Speedtest (track display is *not* part of the project, but obviously compatible) here: https://www.youtube.com/watch?v=1nbLhu1RDvs
+
+Only userport variant for now - expansion port variant maybe some day, as others did the layouts there.
+
+Additionally to the files found here you'll need a 1541/1571 parallelcable with the usual pinout.
