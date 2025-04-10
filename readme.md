@@ -10,7 +10,7 @@ Additionally to the files found here you'll need a 1541/1571 parallelcable with 
 
 
 
-64'er Speedtest values:
+64'er Speedtest values (Userport - 1MHz):
 
 | Operation  | Time | Factor |
 | ------------- | ------------- | ------------- |
@@ -23,3 +23,18 @@ Additionally to the files found here you'll need a 1541/1571 parallelcable with 
 | Validate: | 9.6s | 6.88 |
 | Scratch: | 18.3s | 3.77 |
 | Transfer: | 16.8s | 4.29 |
+
+
+64'er Speedtest values (Expansionport - 2MHz):
+
+| Operation  | Time | Factor |
+| ------------- | ------------- | ------------- |
+| Format: | 17.4s | 4.28 |
+| PRG Save: | 9.2s | 14.89 |
+| PRG Load: | 3.9s | 32.56 |
+| SEQ Save: | 11.2s | 7.68 |
+| SEQ Load: | 10.0s | 7.6 |
+| REL new: | 28.3s | 4.17 |
+| Validate: | 9.4s | 7.02 |
+| Scratch: | 15.1s | 4.57 |
+| Transfer: | 11.1s | 6.49 |
