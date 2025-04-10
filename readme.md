@@ -10,7 +10,7 @@ Additionally to the files found here you'll need a 1541/1571 parallelcable with 
 
 
 
-64'er Speedtest values (Userport - 1MHz):
+64'er Speedtest values (Userport - 1541 - 1MHz (@D0, @DY, @DL-)):
 
 | Operation  | Time | Factor |
 | ------------- | ------------- | ------------- |
@@ -25,7 +25,7 @@ Additionally to the files found here you'll need a 1541/1571 parallelcable with 
 | Transfer: | 16.8s | 4.29 |
 
 
-64'er Speedtest values (Expansionport - 2MHz):
+64'er Speedtest values (Expansionport - 1541 - 2MHz (@D2, @DY)):
 
 | Operation  | Time | Factor |
 | ------------- | ------------- | ------------- |
@@ -38,3 +38,7 @@ Additionally to the files found here you'll need a 1541/1571 parallelcable with 
 | Validate: | 9.4s | 7.02 |
 | Scratch: | 15.1s | 4.57 |
 | Transfer: | 11.1s | 6.49 |
+
+
+
+I'm still looking for a C64 Kernal that uses the Expansionport and allows turning off the screen during load (Option "@DL+") which was mentioned in the manual, as well as a way to reproduce the 2.3 seconds for a 202 block read mentioned in the manual as well. Using the maximum options (@D2 (2MHz), @DN (no verify), @DL+ (screen off during load)) I can only get as low as 3.5s on real hardware so far.
